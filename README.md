@@ -45,37 +45,3 @@ Test Accuracy: 99.23%
 Confusion Matrix: Showed strong class-wise performance
 
 Classification Report: High precision, recall, and F1-score
-
-▶️ Usage
-
-Clone this repository:
-
-git clone https://github.com/your-username/hand-gesture-recognition.git
-cd hand-gesture-recognition
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Train the model:
-
-python train.py
-
-
-Run predictions on sample images:
-
-python predict.py --image path_to_image.jpg
-
-📸 Demo
-
-(Add some sample input-output images or GIFs here showing gesture recognition in action.)
-
-🏆 Acknowledgments
-
-SkillCraft Technology for providing the dataset and task.
-
-TensorFlow & Keras community for open-source tools.
-
-✨ This project is part of my AI/ML Internship with SkillCraft Technology.
